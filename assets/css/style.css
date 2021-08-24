@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* changes color of horiseon "seo" letters */ 
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* adds hero image to html hero class with relitive image pathing*/ 
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* used to float like to left */ 
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* used to float like to right */ 
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* made for all the content to get rid of redundent code */ 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* made to get rid of redundent code in benefits section */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
