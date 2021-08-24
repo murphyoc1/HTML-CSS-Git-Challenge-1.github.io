@@ -16,4 +16,4 @@ The buttons in the header were not properly linked so I went ahead nad made sure
 For style.css I verified links used relative pathing for the hero. The benefits and content classes were simplified using the parent class to reduce the amount of styles we need to define. 
   
   
-  
+ # Link for deployed content https://murphyoc1.github.io/HTML-CSS-Git-Challenge-1.github.io/
